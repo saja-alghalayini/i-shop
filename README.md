@@ -15,8 +15,8 @@ saja.ghalayini02@gmail.com
 
 
 ### Tamara Al-Shabatat
- 
+ t.shbatat@gmail.com
 #### [Tamara's GitHub Link](https://github.com/tamara126enad)
-#### [Tamara's  Linkedin]()
+#### [Tamara's  Linkedin](https://www.linkedin.com/in/tamara-al-shabatat-060452123/?challengeId=AQFBHTafIZQKgAAAAYAhs1i-oKYMHGzoCp7CFeBZxbEnPZafk74JDnX6xmEwh0tDvN3Eq6-LHqiH4WRl2oxvFyTOX64Dyzv3lQ&submissionId=3ffc26ce-3a62-e516-90b4-716d0cbeeb40)
 
 ![i-shop ](https://cdn.discordapp.com/attachments/962715786399600722/963577672200491118/ishop-logo.png)

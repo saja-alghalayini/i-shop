@@ -1,0 +1,1 @@
+<img src="<?php echo esc_url( KITE_THEME_LIB_URI . '/admin/img/' . $vars['filename'] ); ?>" alt="<?php echo kite_array_value( 'alt', $vars ); ?>" class="<?php echo kite_array_value( 'class', $vars ); ?>"/>

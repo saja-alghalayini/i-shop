@@ -1,0 +1,4445 @@
+# KiteStudio Copyright (c) {2022}
+msgid ""
+msgstr ""
+"Project-Id-Version: teta lite 2.2.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/teta-lite\n"
+"POT-Creation-Date: 2022-04-11 09:54:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: KiteStudio <info@kitestudio.co>\n"
+"Language-Team: KiteStudio <info@kitestudio.co>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;__ngettext_noop:1,2;_n:1,2;_x:1,2c;_nx:4c,1,2;_nx_"
+"noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_"
+"html_e;esc_attr_ex:1,2c;esc_html_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:11
+msgid "Error"
+msgstr ""
+
+#: 404.php:13
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:16
+msgid "Don't Worry!"
+msgstr ""
+
+#: 404.php:17
+msgid "You are not lost"
+msgstr ""
+
+#: archive.php:48
+msgid "All posts in: %s"
+msgstr ""
+
+#: archive.php:50
+msgid "All posts tagged: %s"
+msgstr ""
+
+#: archive.php:52 archive.php:54 archive.php:56
+msgid "Archive for: %s"
+msgstr ""
+
+#: archive.php:65
+msgid "Posts by: %s"
+msgstr ""
+
+#: archive.php:68
+msgid "Blog Archive"
+msgstr ""
+
+#: comments.php:12 woocommerce/single-product-reviews.php:100
+#: woocommerce/single-product-reviews.php:101
+msgid "Name"
+msgstr ""
+
+#: comments.php:12
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:14 lib/settings.php:3962
+#: woocommerce/single-product-reviews.php:108
+#: woocommerce/single-product-reviews.php:109
+msgid "Email"
+msgstr ""
+
+#: comments.php:16
+msgid "Website"
+msgstr ""
+
+#: comments.php:23
+msgid "submit"
+msgstr ""
+
+#: comments.php:23 lib/utilities.php:1702
+#: woocommerce/single-product-reviews.php:114
+msgid "Submit"
+msgstr ""
+
+#: comments.php:57
+msgid "<cite>%s</cite>"
+msgstr ""
+
+#: comments.php:61
+msgid "(Author)"
+msgstr ""
+
+#: comments.php:62
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:63
+msgid "Edit"
+msgstr ""
+
+#: comments.php:94
+msgid "This post is password protected. Please enter password to view comments."
+msgstr ""
+
+#: comments.php:112
+msgid "Pings for this post"
+msgstr ""
+
+#: comments.php:150
+msgid "Comments are now closed."
+msgstr ""
+
+#: comments.php:154
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: comments.php:164
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:168
+msgid "Comments are closed for this article."
+msgstr ""
+
+#: comments.php:183
+msgid "Your email address will not be published. Website Field Is Optional."
+msgstr ""
+
+#: comments.php:184
+msgid "Comment"
+msgstr ""
+
+#: comments.php:184
+msgid "Your Message"
+msgstr ""
+
+#: index.php:119 templates/loop-page-blog.php:34
+#: templates/loop-page-cblog.php:87 templates/section-blog.php:36
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: index.php:120 templates/loop-page-blog.php:35
+#: templates/loop-page-cblog.php:88 templates/section-blog.php:37
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: lib/admin/admin-base.php:47
+msgid "Please select Plugins you want to install"
+msgstr ""
+
+#: lib/admin/admin-base.php:48
+msgid "Install recommanded plugins notice dismissed successfully"
+msgstr ""
+
+#: lib/admin/admin-hooks.php:77
+msgid "Thanks for choosing %s"
+msgstr ""
+
+#: lib/admin/admin-hooks.php:78
+msgid ""
+"To take full advantages of %1$s theme and enabling demo importer, "
+"%2$splease install core plugins.%3$s"
+msgstr ""
+
+#: lib/admin/admin-hooks.php:114
+msgid "Install Core Plugins"
+msgstr ""
+
+#: lib/admin/admin-hooks.php:121
+msgid "Go Pro"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:5 lib/admin/mediabox-strings.php:6
+#: lib/admin/mediabox-strings.php:12
+msgid "Insert Image"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:7
+msgid "Insert slide image"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:8
+msgid "Insert caption image"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:9
+msgid "Insert video cover image"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:10
+msgid "Insert preloader image"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:11
+msgid "Insert header image"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:13
+msgid "Insert Home Slider Image"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:14
+msgid "Insert Home full-width video"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:15
+msgid "Insert Logo"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:16
+msgid "Insert Favicon"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:17
+msgid "Insert Map marker"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:18
+msgid "Insert"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:19
+msgid "Insert background for menu"
+msgstr ""
+
+#: lib/admin/mediabox-strings.php:20
+msgid "Insert image for attributes"
+msgstr ""
+
+#: lib/ajax-hooks.php:43
+msgid "instagram feed"
+msgstr ""
+
+#: lib/ajax-hooks.php:160
+msgid "Products"
+msgstr ""
+
+#: lib/ajax-hooks.php:160
+msgid "Posts"
+msgstr ""
+
+#: lib/ajax-hooks.php:202
+msgid "Nothing Found For : "
+msgstr ""
+
+#: lib/constants.php:11
+msgid "teta"
+msgstr ""
+
+#: lib/constants.php:19
+msgid "Lite"
+msgstr ""
+
+#: lib/extensions/icon_picker_field/extension_icon_picker_field.php:82
+#: lib/extensions/instagram_api_connector_field/extension_instagram_api_connector_field.php:82
+msgid "The"
+msgstr ""
+
+#: lib/extensions/icon_picker_field/extension_icon_picker_field.php:82
+#: lib/extensions/instagram_api_connector_field/extension_instagram_api_connector_field.php:82
+msgid "extension requires"
+msgstr ""
+
+#: lib/extensions/icon_picker_field/extension_icon_picker_field.php:82
+#: lib/extensions/instagram_api_connector_field/extension_instagram_api_connector_field.php:82
+msgid "version"
+msgstr ""
+
+#: lib/extensions/icon_picker_field/extension_icon_picker_field.php:82
+#: lib/extensions/instagram_api_connector_field/extension_instagram_api_connector_field.php:82
+msgid "or higher."
+msgstr ""
+
+#: lib/extensions/icon_picker_field/extension_icon_picker_field.php:82
+#: lib/extensions/instagram_api_connector_field/extension_instagram_api_connector_field.php:82
+msgid "You are currently running"
+msgstr ""
+
+#: lib/extensions/icon_picker_field/extension_icon_picker_field.php:82
+#: lib/extensions/instagram_api_connector_field/extension_instagram_api_connector_field.php:82
+msgid ""
+"This field will not render in your option panel, and featuress of this "
+"extension will not be available until the latest version of"
+msgstr ""
+
+#: lib/extensions/icon_picker_field/extension_icon_picker_field.php:82
+#: lib/extensions/instagram_api_connector_field/extension_instagram_api_connector_field.php:82
+msgid "has been installed."
+msgstr ""
+
+#: lib/extensions/instagram_api_connector_field/instagram_api_connector/field_instagram_api_connector.php:70
+msgid "Connect"
+msgstr ""
+
+#: lib/extensions/instagram_api_connector_field/instagram_api_connector/field_instagram_api_connector.php:71
+msgid "Disconnect"
+msgstr ""
+
+#: lib/forms/templates/admin-panels.php:13
+msgid "Save"
+msgstr ""
+
+#: lib/forms/templates/admin-panels.php:18
+msgid "Documentation"
+msgstr ""
+
+#: lib/forms/templates/admin-panels.php:18
+msgid "Support"
+msgstr ""
+
+#: lib/forms/templates/icon-field.php:30
+#: lib/woocommerce/woocommerce-hooks.php:2365
+#: lib/woocommerce/woocommerce-hooks.php:2433
+msgid "select an icon"
+msgstr ""
+
+#: lib/forms/templates/icon-field.php:36
+#: lib/woocommerce/woocommerce-hooks.php:2366
+#: lib/woocommerce/woocommerce-hooks.php:2438
+msgid "Select an icon"
+msgstr ""
+
+#: lib/forms/templates/upload-field.php:6
+msgid "Upload Image"
+msgstr ""
+
+#: lib/forms/templates/upload-field.php:16
+msgid "Browse"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:334 lib/plugins-handler.php:90
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:335 lib/plugins-handler.php:91
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:337 lib/plugins-handler.php:92
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:340 lib/plugins-handler.php:93
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:377 lib/plugins-handler.php:102
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/includes/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/includes/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:393
+#: lib/includes/class-tgm-plugin-activation.php:917
+#: lib/includes/class-tgm-plugin-activation.php:2646
+#: lib/includes/class-tgm-plugin-activation.php:3697
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:394
+#: lib/includes/class-tgm-plugin-activation.php:3272
+#: lib/plugins-handler.php:105
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:395
+#: lib/includes/class-tgm-plugin-activation.php:3065
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:612
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:613
+msgid "Update Required"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:1026
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:1026
+#: lib/includes/class-tgm-plugin-activation.php:1036
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:1036
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2095
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2505
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2509
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2513
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2646
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2716
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2721
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2727
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2797
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3021
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3047
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3615
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3618
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3620
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3626
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3626
+#: lib/includes/class-tgm-plugin-activation.php:3634
+msgid "Show Details"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3626
+#: lib/includes/class-tgm-plugin-activation.php:3634
+msgid "Hide Details"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3629
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3634
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:3637
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/menu/menu-setting.php:111
+msgid "Hide in the menu"
+msgstr ""
+
+#: lib/menu/menu-setting.php:113
+msgid "If you check, this item  will be hidden.(Used in one-page style)"
+msgstr ""
+
+#: lib/menu/menu-setting.php:118
+msgid "Badge label"
+msgstr ""
+
+#: lib/menu/menu-setting.php:119
+msgid "eg: new"
+msgstr ""
+
+#: lib/menu/menu-setting.php:124
+msgid "Badge background color"
+msgstr ""
+
+#: lib/menu/menu-setting.php:130
+msgid "Mega Menu"
+msgstr ""
+
+#: lib/menu/menu-setting.php:131
+msgid "Transforms the menu to mega menu"
+msgstr ""
+
+#: lib/menu/menu-setting.php:137
+msgid "Show the last child in special style"
+msgstr ""
+
+#: lib/menu/menu-setting.php:138
+msgid ""
+"It is displayed in bottom of mega menu, use description field of last child "
+"to show subtitle"
+msgstr ""
+
+#: lib/menu/menu-setting.php:144
+msgid "Hide menu title"
+msgstr ""
+
+#: lib/menu/menu-setting.php:145
+msgid "Select to hide this title in mega menu"
+msgstr ""
+
+#: lib/menu/menu-setting.php:149 lib/settings.php:3727
+msgid "Background Image"
+msgstr ""
+
+#: lib/menu/menu-setting.php:150
+msgid "Set an image for the mega menu"
+msgstr ""
+
+#: lib/menu/menu-setting.php:157 lib/woocommerce/woocommerce-hooks.php:2356
+msgid "Icon"
+msgstr ""
+
+#: lib/menus.php:4
+msgid "Primary Navigation"
+msgstr ""
+
+#: lib/menus.php:5
+msgid "Ladder Navigation"
+msgstr ""
+
+#: lib/menus.php:6
+msgid "Mobile Navigation"
+msgstr ""
+
+#: lib/menus.php:7
+msgid "Top bar Navigation"
+msgstr ""
+
+#: lib/menus.php:8
+msgid "Footer Navigation"
+msgstr ""
+
+#: lib/nav-walker.php:252
+msgid "back"
+msgstr ""
+
+#: lib/plugins-handler.php:94
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins-handler.php:95
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins-handler.php:96
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins-handler.php:97
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins-handler.php:98
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins-handler.php:99
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins-handler.php:100
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins-handler.php:101
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins-handler.php:103
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins-handler.php:104
+msgid "Return to required plugins installer"
+msgstr ""
+
+#: lib/plugins-handler.php:106
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: lib/plugins-handler.php:169
+msgid "No Slug Found"
+msgstr ""
+
+#: lib/plugins-handler.php:191
+msgid "Activating "
+msgstr ""
+
+#: lib/plugins-handler.php:206
+msgid "Updating "
+msgstr ""
+
+#: lib/plugins-handler.php:221
+msgid "Installing "
+msgstr ""
+
+#: lib/plugins-handler.php:244
+msgid "Success"
+msgstr ""
+
+#: lib/scripts-loader.php:132
+msgid "Please select a rating"
+msgstr ""
+
+#: lib/scripts-loader.php:567
+msgid "Sort By"
+msgstr ""
+
+#: lib/scripts-loader.php:568
+msgid "See All Results For : "
+msgstr ""
+
+#: lib/scripts-loader.php:569
+msgid "Show More"
+msgstr ""
+
+#: lib/scripts-loader.php:570 lib/settings.php:3287
+msgid "Add to cart"
+msgstr ""
+
+#: lib/scripts-loader.php:609 lib/utilities.php:123
+msgid "Loading..."
+msgstr ""
+
+#: lib/scripts-loader.php:610
+msgid "more posts"
+msgstr ""
+
+#: lib/scripts-loader.php:611
+msgid "No More Posts"
+msgstr ""
+
+#: lib/settings.php:22 lib/settings.php:23
+msgid "Theme Settings"
+msgstr ""
+
+#: lib/settings.php:88
+msgid "General Settings"
+msgstr ""
+
+#: lib/settings.php:95
+msgid "Header BreadCrumb"
+msgstr ""
+
+#: lib/settings.php:101
+msgid "Specify custom favicon URL or upload a new one here."
+msgstr ""
+
+#: lib/settings.php:103
+msgid "Favicon"
+msgstr ""
+
+#: lib/settings.php:109
+msgid "Page Scrolling Motion Effect"
+msgstr ""
+
+#: lib/settings.php:110
+msgid "Select one of the scrolling motion effects bellow."
+msgstr ""
+
+#: lib/settings.php:150
+msgid "Scrolling Speed"
+msgstr ""
+
+#: lib/settings.php:151
+msgid "Adjust the speed of pages vertical scrolling."
+msgstr ""
+
+#: lib/settings.php:161
+msgid ""
+"Upload dashboard's login page logo. ( best size : 302px X 62px ) ( PNG , "
+"JPG , GIF )"
+msgstr ""
+
+#: lib/settings.php:163
+msgid "Dashboard's Login Page Logo"
+msgstr ""
+
+#: lib/settings.php:169
+msgid "Retina Ready"
+msgstr ""
+
+#: lib/settings.php:170
+msgid ""
+"You can enable or disable retina. notice that enabling this option generate "
+"more images"
+msgstr ""
+
+#: lib/settings.php:171 lib/settings.php:180 lib/settings.php:574
+#: lib/settings.php:747 lib/settings.php:867 lib/settings.php:1730
+#: lib/settings.php:1750 lib/settings.php:1758 lib/settings.php:1774
+#: lib/settings.php:1782 lib/settings.php:1790 lib/settings.php:1799
+#: lib/settings.php:1808 lib/settings.php:2076 lib/settings.php:2492
+#: lib/settings.php:2526 lib/settings.php:2535 lib/settings.php:2544
+#: lib/settings.php:2558 lib/settings.php:2596 lib/settings.php:2613
+#: lib/settings.php:2633 lib/settings.php:2655 lib/settings.php:2664
+#: lib/settings.php:2688 lib/settings.php:2707 lib/settings.php:2716
+#: lib/settings.php:2725 lib/settings.php:2745 lib/settings.php:2761
+#: lib/settings.php:2788 lib/settings.php:2830 lib/settings.php:2878
+#: lib/settings.php:2913 lib/settings.php:3097 lib/settings.php:3126
+#: lib/settings.php:3135 lib/settings.php:3151 lib/settings.php:3160
+#: lib/settings.php:3172 lib/settings.php:3188 lib/settings.php:3233
+#: lib/settings.php:3251 lib/settings.php:3267 lib/settings.php:3295
+#: lib/settings.php:3304 lib/settings.php:3313 lib/settings.php:3322
+#: lib/settings.php:3349 lib/settings.php:3466 lib/settings.php:3503
+#: lib/settings.php:3543 lib/settings.php:3596 lib/settings.php:3695
+#: lib/settings.php:3705 lib/settings.php:3735 lib/settings.php:4258
+#: lib/settings.php:4267 lib/settings.php:4276 lib/settings.php:4357
+msgid "Enable"
+msgstr ""
+
+#: lib/settings.php:172 lib/settings.php:181 lib/settings.php:575
+#: lib/settings.php:748 lib/settings.php:868 lib/settings.php:1731
+#: lib/settings.php:1751 lib/settings.php:1759 lib/settings.php:1775
+#: lib/settings.php:1783 lib/settings.php:1791 lib/settings.php:1800
+#: lib/settings.php:1809 lib/settings.php:2004 lib/settings.php:2077
+#: lib/settings.php:2493 lib/settings.php:2527 lib/settings.php:2536
+#: lib/settings.php:2545 lib/settings.php:2559 lib/settings.php:2597
+#: lib/settings.php:2614 lib/settings.php:2634 lib/settings.php:2656
+#: lib/settings.php:2665 lib/settings.php:2689 lib/settings.php:2708
+#: lib/settings.php:2717 lib/settings.php:2726 lib/settings.php:2746
+#: lib/settings.php:2762 lib/settings.php:2789 lib/settings.php:2831
+#: lib/settings.php:2879 lib/settings.php:2914 lib/settings.php:3098
+#: lib/settings.php:3127 lib/settings.php:3136 lib/settings.php:3152
+#: lib/settings.php:3161 lib/settings.php:3173 lib/settings.php:3189
+#: lib/settings.php:3234 lib/settings.php:3252 lib/settings.php:3268
+#: lib/settings.php:3296 lib/settings.php:3305 lib/settings.php:3314
+#: lib/settings.php:3323 lib/settings.php:3350 lib/settings.php:3467
+#: lib/settings.php:3504 lib/settings.php:3544 lib/settings.php:3597
+#: lib/settings.php:3696 lib/settings.php:3706 lib/settings.php:3736
+#: lib/settings.php:4259 lib/settings.php:4268 lib/settings.php:4277
+#: lib/settings.php:4358
+msgid "Disable"
+msgstr ""
+
+#: lib/settings.php:178
+msgid "Scroll Top Button"
+msgstr ""
+
+#: lib/settings.php:179
+msgid "You can enable or disable scroll top button"
+msgstr ""
+
+#: lib/settings.php:187
+msgid "Layout Width"
+msgstr ""
+
+#: lib/settings.php:188
+msgid "Select width of layout"
+msgstr ""
+
+#: lib/settings.php:189 lib/settings.php:1042 lib/settings.php:3830
+msgid "Fullwidth"
+msgstr ""
+
+#: lib/settings.php:190 lib/settings.php:2605 lib/settings.php:3458
+#: lib/settings.php:3483 lib/settings.php:3761 lib/settings.php:3831
+msgid "Container"
+msgstr ""
+
+#: lib/settings.php:196
+msgid "Pages Container Size"
+msgstr ""
+
+#: lib/settings.php:197 lib/settings.php:218
+msgid "Predefined size is set to 1170px."
+msgstr ""
+
+#: lib/settings.php:198 lib/settings.php:219
+msgid "Predefined Size"
+msgstr ""
+
+#: lib/settings.php:199 lib/settings.php:220
+msgid "Custom Size"
+msgstr ""
+
+#: lib/settings.php:205
+msgid "Custom Container Size"
+msgstr ""
+
+#: lib/settings.php:206 lib/settings.php:227
+msgid "Adjust the size of pages container width. (Defined by pixle)"
+msgstr ""
+
+#: lib/settings.php:217
+msgid "Product Details Container Size"
+msgstr ""
+
+#: lib/settings.php:226
+msgid "Product Detail Custom Container Size"
+msgstr ""
+
+#: lib/settings.php:242
+msgid "Color Scheme"
+msgstr ""
+
+#: lib/settings.php:249
+msgid "Accent Color"
+msgstr ""
+
+#: lib/settings.php:250
+msgid "Accent color for theme elements."
+msgstr ""
+
+#: lib/settings.php:262
+msgid "Highlight Color"
+msgstr ""
+
+#: lib/settings.php:263
+msgid "Highlight color on the highlited elements."
+msgstr ""
+
+#: lib/settings.php:274
+msgid "Chroma of Elements Placed On Accent Color"
+msgstr ""
+
+#: lib/settings.php:276 lib/settings.php:679 lib/settings.php:688
+#: lib/settings.php:920 lib/settings.php:1080 lib/settings.php:1299
+#: lib/settings.php:2410 lib/settings.php:3040 lib/settings.php:3753
+#: lib/settings.php:3821
+msgid "Light"
+msgstr ""
+
+#: lib/settings.php:277 lib/settings.php:678 lib/settings.php:687
+#: lib/settings.php:919 lib/settings.php:1081 lib/settings.php:1300
+#: lib/settings.php:2411 lib/settings.php:3039 lib/settings.php:3754
+#: lib/settings.php:3820
+msgid "Dark"
+msgstr ""
+
+#: lib/settings.php:283
+msgid "Link Color"
+msgstr ""
+
+#: lib/settings.php:289
+msgid "Normal Link Color"
+msgstr ""
+
+#: lib/settings.php:301
+msgid "On Hover Link Color"
+msgstr ""
+
+#: lib/settings.php:322
+msgid "Pages Loading Transition"
+msgstr ""
+
+#: lib/settings.php:328 lib/settings.php:347
+msgid "Switch preloader | page transition"
+msgstr ""
+
+#: lib/settings.php:329
+msgid ""
+"You can switch between preloader and page transition effect. This loader "
+"would be shown before your website is loaded completely."
+msgstr ""
+
+#: lib/settings.php:340
+msgid "Preloader Type"
+msgstr ""
+
+#: lib/settings.php:349
+msgid "Display always"
+msgstr ""
+
+#: lib/settings.php:350
+msgid "Display just Between pages"
+msgstr ""
+
+#: lib/settings.php:386
+msgid "Preloader Color"
+msgstr ""
+
+#: lib/settings.php:394
+msgid "color"
+msgstr ""
+
+#: lib/settings.php:406
+msgid "Background color"
+msgstr ""
+
+#: lib/settings.php:418
+msgid "Box color"
+msgstr ""
+
+#: lib/settings.php:431 lib/settings.php:438
+msgid "Preloader Text"
+msgstr ""
+
+#: lib/settings.php:443
+msgid "Preloader Text color"
+msgstr ""
+
+#: lib/settings.php:460
+msgid "Choose an image to make it appear in preloader page. (PNG, GIF, JPG)"
+msgstr ""
+
+#: lib/settings.php:462
+msgid "Preloader Image"
+msgstr ""
+
+#: lib/settings.php:473
+msgid "Popup Newsletter"
+msgstr ""
+
+#: lib/settings.php:480
+msgid "Popup Newsletter Display"
+msgstr ""
+
+#: lib/settings.php:481
+msgid ""
+"This Newsletter will be shown to the visitors when they enter the site. You "
+"can enable or disable it."
+msgstr ""
+
+#: lib/settings.php:487
+msgid "Popup Newsletter Title and Subtitle"
+msgstr ""
+
+#: lib/settings.php:494 lib/settings.php:3362 lib/settings.php:3386
+#: lib/settings.php:3411
+msgid "Title"
+msgstr ""
+
+#: lib/settings.php:495
+msgid "Choose a title for the newsletter."
+msgstr ""
+
+#: lib/settings.php:501
+msgid "Subtitle"
+msgstr ""
+
+#: lib/settings.php:502
+msgid "Choose a subtitle for the newsletter."
+msgstr ""
+
+#: lib/settings.php:513
+msgid "Popup Newsletter Shortcode"
+msgstr ""
+
+#: lib/settings.php:514
+msgid ""
+"Add a newsletter shortcode in this box. You can create your desired form by "
+"Mailchimp and then insert its shortcode here."
+msgstr ""
+
+#: lib/settings.php:521
+msgid "Popup Newsletter Background Image"
+msgstr ""
+
+#: lib/settings.php:522
+msgid ""
+"Choose a background image for the popup newsletter. It is better to use "
+"vertical photo (320*400)."
+msgstr ""
+
+#: lib/settings.php:528
+msgid "Popup Newsletter Extra Content"
+msgstr ""
+
+#: lib/settings.php:529
+msgid "You can write some extra text to show on the newsletter popup."
+msgstr ""
+
+#: lib/settings.php:535
+msgid "Show On Mobile"
+msgstr ""
+
+#: lib/settings.php:536
+msgid "Show the popup in mobile devices"
+msgstr ""
+
+#: lib/settings.php:543
+msgid "Delay Time"
+msgstr ""
+
+#: lib/settings.php:549
+msgid "Adjust the popup delay time after page loaded. (Defined by Milliseconds)"
+msgstr ""
+
+#: lib/settings.php:559
+msgid "Header | Menu"
+msgstr ""
+
+#: lib/settings.php:572
+msgid "Build Header With Elementor"
+msgstr ""
+
+#: lib/settings.php:580 lib/settings.php:2752 lib/settings.php:2768
+#: lib/settings.php:3549
+msgid "Select Template"
+msgstr ""
+
+#: lib/settings.php:587
+msgid "Header Type"
+msgstr ""
+
+#: lib/settings.php:588
+msgid "Select header type"
+msgstr ""
+
+#: lib/settings.php:635
+msgid "Second State Header Type"
+msgstr ""
+
+#: lib/settings.php:636
+msgid "Select what to happens to the header after scrolling down the page."
+msgstr ""
+
+#: lib/settings.php:661
+msgid "Header Width"
+msgstr ""
+
+#: lib/settings.php:662
+msgid "Choose the header to be boxed or full-width."
+msgstr ""
+
+#: lib/settings.php:663
+msgid "Full Width"
+msgstr ""
+
+#: lib/settings.php:664 lib/settings.php:1041
+msgid "Boxed"
+msgstr ""
+
+#: lib/settings.php:676
+msgid "Mobile Header Style"
+msgstr ""
+
+#: lib/settings.php:677
+msgid "Choose the style of header in responsive mode."
+msgstr ""
+
+#: lib/settings.php:685
+msgid "Mobile Off Canvas Style"
+msgstr ""
+
+#: lib/settings.php:686
+msgid "Choose the style of off canvas menu in responsive mode."
+msgstr ""
+
+#: lib/settings.php:694
+msgid "Second State Header On Mobile"
+msgstr ""
+
+#: lib/settings.php:706 templates/nav/header-2-3.php:13
+#: templates/nav/header-2-3.php:15 templates/nav/header-2-3.php:21
+#: templates/nav/header-2-3.php:23 templates/nav/header-2-3.php:82
+#: templates/nav/header-2-3.php:84 templates/nav/header-2-3.php:88
+#: templates/nav/header-2-3.php:90 templates/nav/header-7.php:9
+#: templates/nav/header-7.php:11 templates/nav/header-7.php:15
+#: templates/nav/header-7.php:17 templates/nav/header-7.php:53
+#: templates/nav/header-7.php:55 templates/nav/header-7.php:59
+#: templates/nav/header-7.php:61 templates/nav/header-8.php:9
+#: templates/nav/header-8.php:11 templates/nav/header-8.php:15
+#: templates/nav/header-8.php:17 templates/nav/header-8.php:50
+#: templates/nav/header-8.php:52 templates/nav/header-8.php:56
+#: templates/nav/header-8.php:58 templates/nav/header-9.php:30
+#: templates/nav/header-9.php:32 templates/nav/header-9.php:36
+#: templates/nav/header-9.php:38 templates/nav/header-9.php:98
+#: templates/nav/header-9.php:100 templates/nav/header-9.php:104
+#: templates/nav/header-9.php:106 templates/nav/header-def.php:14
+#: templates/nav/header-def.php:16 templates/nav/header-def.php:20
+#: templates/nav/header-def.php:22 templates/nav/header-def.php:81
+#: templates/nav/header-def.php:83 templates/nav/header-def.php:87
+#: templates/nav/header-def.php:89 templates/nav/header-mobile.php:95
+#: templates/nav/header-mobile.php:97 templates/nav/header-mobile.php:101
+#: templates/nav/header-mobile.php:103 templates/section-footer.php:108
+#: templates/section-footer.php:117 templates/section-footer.php:229
+#: templates/section-footer.php:285
+msgid "Logo"
+msgstr ""
+
+#: lib/settings.php:712
+msgid "Uplaod your header logo."
+msgstr ""
+
+#: lib/settings.php:714
+msgid "Initial Header Logo"
+msgstr ""
+
+#: lib/settings.php:719
+msgid "This logo will be shown at the second state header."
+msgstr ""
+
+#: lib/settings.php:721
+msgid "Second State Header Logo"
+msgstr ""
+
+#: lib/settings.php:727
+msgid ""
+"It's the logo that will only be shown in responsive mode (Mobile and "
+"tablets)"
+msgstr ""
+
+#: lib/settings.php:729
+msgid "Mobile Logo"
+msgstr ""
+
+#: lib/settings.php:739
+msgid "Cart Button"
+msgstr ""
+
+#: lib/settings.php:745
+msgid "Cart Button Display"
+msgstr ""
+
+#: lib/settings.php:746
+msgid "Enable or disable menu cart menu button"
+msgstr ""
+
+#: lib/settings.php:754
+msgid "Cart icon"
+msgstr ""
+
+#: lib/settings.php:800
+msgid "Wishlist Button "
+msgstr ""
+
+#: lib/settings.php:806
+msgid "Wishlist Button Display"
+msgstr ""
+
+#: lib/settings.php:807
+msgid "Enable or disable the display of the wishlist button."
+msgstr ""
+
+#: lib/settings.php:813
+msgid "Show Wishlist in Responsive"
+msgstr ""
+
+#: lib/settings.php:814
+msgid "Show the wishlist button in responsive mode or not."
+msgstr ""
+
+#: lib/settings.php:826
+msgid "Cart/wishlist Button Chroma"
+msgstr ""
+
+#: lib/settings.php:832
+msgid "Cart/wishlist Button Style"
+msgstr ""
+
+#: lib/settings.php:833 lib/settings.php:834
+msgid "Choose the Cart/wishlist button style."
+msgstr ""
+
+#: lib/settings.php:835
+msgid "Dark Icon"
+msgstr ""
+
+#: lib/settings.php:836
+msgid "Light Icon"
+msgstr ""
+
+#: lib/settings.php:842
+msgid "Cart/wishlist Button Background Color"
+msgstr ""
+
+#: lib/settings.php:843
+msgid "Choose a background color for the Cart/wishlist button."
+msgstr ""
+
+#: lib/settings.php:858
+msgid "Mobile Sticky Bottom Navigation"
+msgstr ""
+
+#: lib/settings.php:864
+msgid "Sticky Bottom Navigation Bar"
+msgstr ""
+
+#: lib/settings.php:865
+msgid "Show or hide bottom sticky navigation bar"
+msgstr ""
+
+#: lib/settings.php:873
+msgid "Product Categories In Mobile Sticky Bottom Navigation"
+msgstr ""
+
+#: lib/settings.php:874
+msgid "Show or hide Product Categories in the mobile sticky bottom navigation bar"
+msgstr ""
+
+#: lib/settings.php:876
+msgid "Show"
+msgstr ""
+
+#: lib/settings.php:877
+msgid "Hide"
+msgstr ""
+
+#: lib/settings.php:895
+msgid "Header Promo Bar"
+msgstr ""
+
+#: lib/settings.php:903
+msgid "Promo Bar Display"
+msgstr ""
+
+#: lib/settings.php:904
+msgid "The promo bar will be shown on top of the home page."
+msgstr ""
+
+#: lib/settings.php:910
+msgid "Promo Bar Text"
+msgstr ""
+
+#: lib/settings.php:911
+msgid "Add a text to show on promo bar."
+msgstr ""
+
+#: lib/settings.php:918
+msgid "Chroma of Promo Bar Text"
+msgstr ""
+
+#: lib/settings.php:928
+msgid "Promo Bar Button"
+msgstr ""
+
+#: lib/settings.php:929
+msgid ""
+"This text will be Shown on your button. Leave it blank if you don't want to "
+"have the promo bar button."
+msgstr ""
+
+#: lib/settings.php:937
+msgid "Promo Bar link URL"
+msgstr ""
+
+#: lib/settings.php:938
+msgid ""
+"This link will be used for redirecting visitors after clicking on the promo "
+"bar or its button."
+msgstr ""
+
+#: lib/settings.php:944
+msgid "Promo Bar Height"
+msgstr ""
+
+#: lib/settings.php:950
+msgid "Height of promo bar in desktop"
+msgstr ""
+
+#: lib/settings.php:951
+msgid "Defined by pixle"
+msgstr ""
+
+#: lib/settings.php:962
+msgid "Height of promo bar in responsive"
+msgstr ""
+
+#: lib/settings.php:963
+msgid "The measurement unit is a pixel."
+msgstr ""
+
+#: lib/settings.php:979
+msgid "Promo Bar Background Style"
+msgstr ""
+
+#: lib/settings.php:986
+msgid "Promo Bar Background Image"
+msgstr ""
+
+#: lib/settings.php:987
+msgid "Choose a background image for the Promo Bar."
+msgstr ""
+
+#: lib/settings.php:994
+msgid "Promo Bar Background Color"
+msgstr ""
+
+#: lib/settings.php:995
+msgid "Choose a background color for the Promo Bar."
+msgstr ""
+
+#: lib/settings.php:1011
+msgid "Promo Bar Close button Display"
+msgstr ""
+
+#: lib/settings.php:1012
+msgid "Showing of the close button."
+msgstr ""
+
+#: lib/settings.php:1023
+msgid "Top Bar"
+msgstr ""
+
+#: lib/settings.php:1031
+msgid "Enable Topbar"
+msgstr ""
+
+#: lib/settings.php:1032
+msgid ""
+"You can enable or disable the top bar here. Top bar is the bar that sticks "
+"to top of your page."
+msgstr ""
+
+#: lib/settings.php:1038
+msgid "Topbar Display"
+msgstr ""
+
+#: lib/settings.php:1039
+msgid "You can choose the top bar to be boxed or full-width"
+msgstr ""
+
+#: lib/settings.php:1047
+msgid "Style"
+msgstr ""
+
+#: lib/settings.php:1053
+msgid "Topbar Content Chroma"
+msgstr ""
+
+#: lib/settings.php:1067
+msgid "Do you want the top bar have border? Choose its color."
+msgstr ""
+
+#: lib/settings.php:1079
+msgid "Topbar Color"
+msgstr ""
+
+#: lib/settings.php:1092
+msgid "Topbar Icon"
+msgstr ""
+
+#: lib/settings.php:1097
+msgid "Title and Text"
+msgstr ""
+
+#: lib/settings.php:1103
+msgid "Top bar title"
+msgstr ""
+
+#: lib/settings.php:1108
+msgid "Top bar text"
+msgstr ""
+
+#: lib/settings.php:1118
+msgid "Top bar Compare"
+msgstr ""
+
+#: lib/settings.php:1120
+msgid "This Item Works Perfectly If WooCommerce and YithCompare Plugins are active."
+msgstr ""
+
+#: lib/settings.php:1125
+msgid "Language"
+msgstr ""
+
+#: lib/settings.php:1131
+msgid "1st Language"
+msgstr ""
+
+#: lib/settings.php:1136
+msgid "1st Language URL"
+msgstr ""
+
+#: lib/settings.php:1141
+msgid "Second Language"
+msgstr ""
+
+#: lib/settings.php:1146
+msgid "Second Language URL"
+msgstr ""
+
+#: lib/settings.php:1151
+msgid "Third Language"
+msgstr ""
+
+#: lib/settings.php:1156
+msgid "Third Language URL"
+msgstr ""
+
+#: lib/settings.php:1161
+msgid "Fourth Language"
+msgstr ""
+
+#: lib/settings.php:1166
+msgid "Fourth Language URL"
+msgstr ""
+
+#: lib/settings.php:1176
+msgid "Social Icons"
+msgstr ""
+
+#: lib/settings.php:1177
+msgid "Enable or disable the social icons on the top bar."
+msgstr ""
+
+#: lib/settings.php:1183
+msgid "Currency Switcher shortcode"
+msgstr ""
+
+#: lib/settings.php:1184
+msgid ""
+"Enter the currency switcher shortcode here. The default shortcode is [woocs "
+"show_flags=0 flag_position='left']. It is obvious that you should first "
+"install 'WooCommerce Currency Switcher' plugin which is available in "
+"theme's recommended plugins."
+msgstr ""
+
+#: lib/settings.php:1195
+msgid "Login/My-account Button"
+msgstr ""
+
+#: lib/settings.php:1196
+msgid "Show the Login/My Account button or not."
+msgstr ""
+
+#: lib/settings.php:1206
+msgid "Menu Options"
+msgstr ""
+
+#: lib/settings.php:1214
+msgid "Humburger Menu Options"
+msgstr ""
+
+#: lib/settings.php:1223
+msgid "Animated text"
+msgstr ""
+
+#: lib/settings.php:1231
+msgid "Animated text Background Image"
+msgstr ""
+
+#: lib/settings.php:1232
+msgid "Choose a background image for Animated text in humburger Menu."
+msgstr ""
+
+#: lib/settings.php:1237
+msgid "Animated text color"
+msgstr ""
+
+#: lib/settings.php:1238
+msgid "Choose a color for Animated text in humburger Menu."
+msgstr ""
+
+#: lib/settings.php:1248
+msgid "Menu Icon Color"
+msgstr ""
+
+#: lib/settings.php:1249
+msgid "Choose a color for Menu Icon."
+msgstr ""
+
+#: lib/settings.php:1259
+msgid "Menu Icon Background Color"
+msgstr ""
+
+#: lib/settings.php:1260
+msgid "Choose a background color for Menu Icon"
+msgstr ""
+
+#: lib/settings.php:1275
+msgid "Ladder Menu"
+msgstr ""
+
+#: lib/settings.php:1283
+msgid "Ladder Menu Title"
+msgstr ""
+
+#: lib/settings.php:1284 lib/woocommerce/woocommerce-hooks.php:434
+#: lib/woocommerce/woocommerce-hooks.php:1127
+#: lib/woocommerce/woocommerce-hooks.php:1157 searchform.php:15
+#: searchform.php:17 searchform.php:28 searchform.php:30 searchform.php:139
+#: searchform.php:141 searchform.php:203 searchform.php:205
+#: templates/nav/mobile-nav-menu.php:42
+msgid "All Categories"
+msgstr ""
+
+#: lib/settings.php:1289
+msgid "Ladder Menu State"
+msgstr ""
+
+#: lib/settings.php:1290
+msgid "Select State Of Ladder Menu"
+msgstr ""
+
+#: lib/settings.php:1291
+msgid "Open"
+msgstr ""
+
+#: lib/settings.php:1292 lib/woocommerce/woocommerce-hooks.php:951
+msgid "Close"
+msgstr ""
+
+#: lib/settings.php:1298
+msgid "Ladder Menu Chroma"
+msgstr ""
+
+#: lib/settings.php:1311
+msgid "Menu Titles Hover Style"
+msgstr ""
+
+#: lib/settings.php:1322
+msgid "Menu Hover Style"
+msgstr ""
+
+#: lib/settings.php:1323
+msgid "Choose menu hover style."
+msgstr ""
+
+#: lib/settings.php:1357
+msgid "Initial Menu Colors"
+msgstr ""
+
+#: lib/settings.php:1367
+msgid "Background Color"
+msgstr ""
+
+#: lib/settings.php:1368 lib/settings.php:1383 lib/settings.php:1396
+#: lib/settings.php:1410 lib/settings.php:1427 lib/settings.php:1444
+msgid "Choose the color and set the opacity for initial menu."
+msgstr ""
+
+#: lib/settings.php:1382
+msgid "Text Color"
+msgstr ""
+
+#: lib/settings.php:1395
+msgid "Text hover Color"
+msgstr ""
+
+#: lib/settings.php:1409
+msgid "Text Hover Color"
+msgstr ""
+
+#: lib/settings.php:1426
+msgid "on-hover Background Color"
+msgstr ""
+
+#: lib/settings.php:1443
+msgid "Border Color"
+msgstr ""
+
+#: lib/settings.php:1462
+msgid "Second State Header Menu Colors"
+msgstr ""
+
+#: lib/settings.php:1472
+msgid "Menu Background Color"
+msgstr ""
+
+#: lib/settings.php:1482
+msgid "Menu Text Color"
+msgstr ""
+
+#: lib/settings.php:1492
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: lib/settings.php:1503
+msgid "Menu on-hover Background Color"
+msgstr ""
+
+#: lib/settings.php:1517
+msgid "Menu Border Color"
+msgstr ""
+
+#: lib/settings.php:1528
+msgid "Menu Background image Opacity"
+msgstr ""
+
+#: lib/settings.php:1542
+msgid "Submenu Items Hover Style"
+msgstr ""
+
+#: lib/settings.php:1553
+msgid "Submenu Hover Style"
+msgstr ""
+
+#: lib/settings.php:1554
+msgid "Choose the submenu items hover style."
+msgstr ""
+
+#: lib/settings.php:1577
+msgid "Submenu Colors"
+msgstr ""
+
+#: lib/settings.php:1588
+msgid "Submenu Background Color"
+msgstr ""
+
+#: lib/settings.php:1599
+msgid "Submenu Text Color"
+msgstr ""
+
+#: lib/settings.php:1609
+msgid "Submenu Heading Color"
+msgstr ""
+
+#: lib/settings.php:1624
+msgid "vertical Menu Text and Background"
+msgstr ""
+
+#: lib/settings.php:1634
+msgid "Select image that Shown In Menu Background"
+msgstr ""
+
+#: lib/settings.php:1636
+msgid "Upload Menu Background"
+msgstr ""
+
+#: lib/settings.php:1641 lib/settings.php:3802
+msgid "Copyright Text"
+msgstr ""
+
+#: lib/settings.php:1652 lib/settings.php:1658
+msgid "Menu Font"
+msgstr ""
+
+#: lib/settings.php:1670 lib/settings.php:1848 lib/settings.php:1905
+#: lib/settings.php:1962
+msgid "Google Font"
+msgstr ""
+
+#: lib/settings.php:1680 lib/settings.php:1869 lib/settings.php:1926
+#: lib/settings.php:1983
+msgid "Font URL"
+msgstr ""
+
+#: lib/settings.php:1687 lib/settings.php:1876 lib/settings.php:1933
+#: lib/settings.php:1990
+msgid "Font Name"
+msgstr ""
+
+#: lib/settings.php:1703
+msgid "Trident Search Options"
+msgstr ""
+
+#: lib/settings.php:1717
+msgid "Search Box Chroma"
+msgstr ""
+
+#: lib/settings.php:1718
+msgid "dark"
+msgstr ""
+
+#: lib/settings.php:1719
+msgid "light"
+msgstr ""
+
+#: lib/settings.php:1728
+msgid "Search Button"
+msgstr ""
+
+#: lib/settings.php:1729
+msgid "Enable or disable search in the header."
+msgstr ""
+
+#: lib/settings.php:1737 searchform.php:66 searchform.php:74 searchform.php:87
+msgid "Search"
+msgstr ""
+
+#: lib/settings.php:1738
+msgid "Select the post type that you want the search engine work through it."
+msgstr ""
+
+#: lib/settings.php:1741 woocommerce/cart/cart.php:28
+#: woocommerce/cart/cart.php:74
+msgid "Product"
+msgstr ""
+
+#: lib/settings.php:1742
+msgid "Post"
+msgstr ""
+
+#: lib/settings.php:1749
+msgid "Hide uncategorized option in categories list"
+msgstr ""
+
+#: lib/settings.php:1757
+msgid "Show only parent categories in categories list"
+msgstr ""
+
+#: lib/settings.php:1765
+msgid "Select search results column number"
+msgstr ""
+
+#: lib/settings.php:1766
+msgid "3 Columns"
+msgstr ""
+
+#: lib/settings.php:1767
+msgid "2 Columns"
+msgstr ""
+
+#: lib/settings.php:1773
+msgid "Show history before search result"
+msgstr ""
+
+#: lib/settings.php:1781
+msgid "Search in Keywords - show tags section in search result"
+msgstr ""
+
+#: lib/settings.php:1789
+msgid "Search in categories - show categories section in search result"
+msgstr ""
+
+#: lib/settings.php:1797
+msgid "Products/Posts list"
+msgstr ""
+
+#: lib/settings.php:1798
+msgid "Show all products/posts"
+msgstr ""
+
+#: lib/settings.php:1806
+msgid "Vendors list"
+msgstr ""
+
+#: lib/settings.php:1807
+msgid "Show all dokan vendors that sells the product"
+msgstr ""
+
+#: lib/settings.php:1824
+msgid "Fonts"
+msgstr ""
+
+#: lib/settings.php:1831
+msgid "Primary Font"
+msgstr ""
+
+#: lib/settings.php:1888
+msgid "Secondary Font"
+msgstr ""
+
+#: lib/settings.php:1945
+msgid "Condenced Font"
+msgstr ""
+
+#: lib/settings.php:2002
+msgid "Google font display type"
+msgstr ""
+
+#: lib/settings.php:2005
+msgid "Block"
+msgstr ""
+
+#: lib/settings.php:2006
+msgid "Swap"
+msgstr ""
+
+#: lib/settings.php:2007
+msgid "Fallback"
+msgstr ""
+
+#: lib/settings.php:2008
+msgid "optional"
+msgstr ""
+
+#: lib/settings.php:2020 templates/bottom-sticky-navigation.php:60
+msgid "Sidebar"
+msgstr ""
+
+#: lib/settings.php:2027
+msgid "Custom Sidebar"
+msgstr ""
+
+#: lib/settings.php:2028
+msgid ""
+" Select a sidebar for your pages. You can customise each sidebar widget "
+"from widget panel."
+msgstr ""
+
+#: lib/settings.php:2029
+msgid "Enter a sidebar name"
+msgstr ""
+
+#: lib/settings.php:2034
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: lib/settings.php:2035
+msgid "Choose the default sidebar position for those pages that have a sidebar."
+msgstr ""
+
+#: lib/settings.php:2052
+msgid "Blog and Blog Detail Sidebar"
+msgstr ""
+
+#: lib/settings.php:2053
+msgid "Here you can disable or enable the sidebar for your blog and blog detail."
+msgstr ""
+
+#: lib/settings.php:2074
+msgid "Index Category In Search Widget"
+msgstr ""
+
+#: lib/settings.php:2075
+msgid "Enable this option if you want to search categories by using search widget."
+msgstr ""
+
+#: lib/settings.php:2087
+msgid "Shop Page"
+msgstr ""
+
+#: lib/settings.php:2094
+msgid "Shop page Columns Number"
+msgstr ""
+
+#: lib/settings.php:2095
+msgid "Choose the number of products showing in every row in shop page."
+msgstr ""
+
+#: lib/settings.php:2121
+msgid "Shop columns in tablet"
+msgstr ""
+
+#: lib/settings.php:2122
+msgid "show products in a row in tablet."
+msgstr ""
+
+#: lib/settings.php:2133
+msgid "Shop columns in mobile"
+msgstr ""
+
+#: lib/settings.php:2134
+msgid "show products in a row in responsive mode."
+msgstr ""
+
+#: lib/settings.php:2145
+msgid "Products Per Page"
+msgstr ""
+
+#: lib/settings.php:2151
+msgid "Items Per Page"
+msgstr ""
+
+#: lib/settings.php:2152
+msgid "The number of products that will be shown in a single page of your shop."
+msgstr ""
+
+#: lib/settings.php:2191
+msgid "Products Pagination"
+msgstr ""
+
+#: lib/settings.php:2197
+msgid "Products Pagination Type"
+msgstr ""
+
+#: lib/settings.php:2198
+msgid "Choose one of these shop pagination methods."
+msgstr ""
+
+#: lib/settings.php:2209
+msgid "Shop AJAX Pagination"
+msgstr ""
+
+#: lib/settings.php:2210
+msgid "Enable/Disable the shop page AJAX pagination."
+msgstr ""
+
+#: lib/settings.php:2212
+msgid "Enable AJAX Pagination"
+msgstr ""
+
+#: lib/settings.php:2213
+msgid "Disable AJAX Pagination"
+msgstr ""
+
+#: lib/settings.php:2224
+msgid "Product View Options"
+msgstr ""
+
+#: lib/settings.php:2230
+msgid "Products layout"
+msgstr ""
+
+#: lib/settings.php:2231
+msgid "Choose the layout of shop page products."
+msgstr ""
+
+#: lib/settings.php:2233
+msgid "Tiles"
+msgstr ""
+
+#: lib/settings.php:2234
+msgid "List"
+msgstr ""
+
+#: lib/settings.php:2235
+msgid "Tiles with List view option"
+msgstr ""
+
+#: lib/settings.php:2236
+msgid "List with Grid view option"
+msgstr ""
+
+#: lib/settings.php:2243
+msgid "List View In Responsive"
+msgstr ""
+
+#: lib/settings.php:2245 lib/settings.php:4285 lib/settings.php:4294
+#: lib/settings.php:4303 lib/settings.php:4312 lib/settings.php:4321
+#: lib/settings.php:4330
+msgid "Yes"
+msgstr ""
+
+#: lib/settings.php:2246 lib/settings.php:4286 lib/settings.php:4295
+#: lib/settings.php:4304 lib/settings.php:4313 lib/settings.php:4322
+#: lib/settings.php:4331
+msgid "No"
+msgstr ""
+
+#: lib/settings.php:2252
+msgid "Grid View"
+msgstr ""
+
+#: lib/settings.php:2253
+msgid "Products grid view style in shop page."
+msgstr ""
+
+#: lib/settings.php:2275
+msgid "Product Card Style"
+msgstr ""
+
+#: lib/settings.php:2301
+msgid "Product Hover Color"
+msgstr ""
+
+#: lib/settings.php:2390
+msgid "Custom Hover Color"
+msgstr ""
+
+#: lib/settings.php:2408
+msgid "Products Color Scheme"
+msgstr ""
+
+#: lib/settings.php:2416
+msgid "Product Buttons Style"
+msgstr ""
+
+#: lib/settings.php:2432
+msgid "Cart Button Style"
+msgstr ""
+
+#: lib/settings.php:2453
+msgid "Gutter"
+msgstr ""
+
+#: lib/settings.php:2456
+msgid "With Gutter"
+msgstr ""
+
+#: lib/settings.php:2457
+msgid "No Gutter"
+msgstr ""
+
+#: lib/settings.php:2462
+msgid "Border"
+msgstr ""
+
+#: lib/settings.php:2463
+msgid "The border of each product in the main shop page."
+msgstr ""
+
+#: lib/settings.php:2465
+msgid "With Border"
+msgstr ""
+
+#: lib/settings.php:2466
+msgid "No Border"
+msgstr ""
+
+#: lib/settings.php:2471
+msgid "Product Rating"
+msgstr ""
+
+#: lib/settings.php:2474
+msgid "Show Rating"
+msgstr ""
+
+#: lib/settings.php:2475
+msgid "Hide Rating"
+msgstr ""
+
+#: lib/settings.php:2480
+msgid "Product Categories"
+msgstr ""
+
+#: lib/settings.php:2481
+msgid "Show/Hide product categories on product cards"
+msgstr ""
+
+#: lib/settings.php:2483 lib/settings.php:2851
+msgid "Show Categories"
+msgstr ""
+
+#: lib/settings.php:2484 lib/settings.php:2852
+msgid "Hide Categories"
+msgstr ""
+
+#: lib/settings.php:2489
+msgid "On-Sale Products Percentage Badge"
+msgstr ""
+
+#: lib/settings.php:2490
+msgid "Enable/ Disable Percentage sale badge on products"
+msgstr ""
+
+#: lib/settings.php:2498
+msgid "Entrance animation"
+msgstr ""
+
+#: lib/settings.php:2501
+msgid "FadeIn"
+msgstr ""
+
+#: lib/settings.php:2502
+msgid "FadeIn From Bottom"
+msgstr ""
+
+#: lib/settings.php:2503
+msgid "FadeIn From Top"
+msgstr ""
+
+#: lib/settings.php:2504
+msgid "FadeIn From Right"
+msgstr ""
+
+#: lib/settings.php:2505
+msgid "FadeIn From Left"
+msgstr ""
+
+#: lib/settings.php:2506
+msgid "Zoom-in"
+msgstr ""
+
+#: lib/settings.php:2507
+msgid "No animation"
+msgstr ""
+
+#: lib/settings.php:2525
+msgid "Show Variations On Product Cards"
+msgstr ""
+
+#: lib/settings.php:2533
+msgid "Show Variations On Product Cards - Tablet"
+msgstr ""
+
+#: lib/settings.php:2542
+msgid "Show Variations On Product Cards - Mobile"
+msgstr ""
+
+#: lib/settings.php:2556
+msgid "Full Width Shop Page"
+msgstr ""
+
+#: lib/settings.php:2564
+msgid "Filter Sidebar Position"
+msgstr ""
+
+#: lib/settings.php:2565
+msgid "Choose the default filter sidebar position shop page."
+msgstr ""
+
+#: lib/settings.php:2587
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: lib/settings.php:2593
+msgid "Recently viewed products"
+msgstr ""
+
+#: lib/settings.php:2594
+msgid "Enable or disable recently viewd products on product page"
+msgstr ""
+
+#: lib/settings.php:2603
+msgid "Recently viewed products Display"
+msgstr ""
+
+#: lib/settings.php:2604 lib/settings.php:3457 lib/settings.php:3482
+#: lib/settings.php:3762
+msgid "Full width"
+msgstr ""
+
+#: lib/settings.php:2611
+msgid "Recently viewed products Display in Mobile"
+msgstr ""
+
+#: lib/settings.php:2624
+msgid "Catalog Mode"
+msgstr ""
+
+#: lib/settings.php:2631
+msgid "Catalog Mode Display"
+msgstr ""
+
+#: lib/settings.php:2632
+msgid ""
+"Note that if you enable this option, the add to cart button and cart  will "
+"be deactivated"
+msgstr ""
+
+#: lib/settings.php:2640
+msgid "Price in Catalog Mode"
+msgstr ""
+
+#: lib/settings.php:2641
+msgid "Show Price"
+msgstr ""
+
+#: lib/settings.php:2642
+msgid "Hide Price"
+msgstr ""
+
+#: lib/settings.php:2653 lib/woocommerce/woocommerce-hooks.php:1784
+msgid "Quick View"
+msgstr ""
+
+#: lib/settings.php:2661
+msgid "Products Hover Image"
+msgstr ""
+
+#: lib/settings.php:2662
+msgid ""
+"If you enable this, The first image of gallery will be shown as hover of "
+"each product"
+msgstr ""
+
+#: lib/settings.php:2670
+msgid "Category Page"
+msgstr ""
+
+#: lib/settings.php:2676
+msgid "Category Description Position"
+msgstr ""
+
+#: lib/settings.php:2677
+msgid "You can manage the position of categories description with this option"
+msgstr ""
+
+#: lib/settings.php:2679
+msgid "On The Header"
+msgstr ""
+
+#: lib/settings.php:2680
+msgid "After The Header"
+msgstr ""
+
+#: lib/settings.php:2685
+msgid "Responsive Category Header"
+msgstr ""
+
+#: lib/settings.php:2686
+msgid "Enable/Disable category header title and description in responsive devices"
+msgstr ""
+
+#: lib/settings.php:2699
+msgid "Widgets Settings"
+msgstr ""
+
+#: lib/settings.php:2705
+msgid "Rating in woocommerce products widget"
+msgstr ""
+
+#: lib/settings.php:2706
+msgid "Enable/Disable Rating in woocommerce products widget"
+msgstr ""
+
+#: lib/settings.php:2714
+msgid "Show More button in woocommerce categories widget"
+msgstr ""
+
+#: lib/settings.php:2715
+msgid "Enable/Disable Show More button in woocommerce categories widget"
+msgstr ""
+
+#: lib/settings.php:2723
+msgid "Categories widget scroll animation"
+msgstr ""
+
+#: lib/settings.php:2724
+msgid "Enable/Disable categories widget scroll animation in shop page"
+msgstr ""
+
+#: lib/settings.php:2737
+msgid "Shop Extra Templates"
+msgstr ""
+
+#: lib/settings.php:2743
+msgid "Shop Page Top Template"
+msgstr ""
+
+#: lib/settings.php:2744
+msgid "You can add Elemntor templates at the top of the shop page"
+msgstr ""
+
+#: lib/settings.php:2759
+msgid "Shop Page Bottom Template"
+msgstr ""
+
+#: lib/settings.php:2760
+msgid "You can add Elemntor templates at the bottom of the shop page"
+msgstr ""
+
+#: lib/settings.php:2780
+msgid "Shop Extra Options"
+msgstr ""
+
+#: lib/settings.php:2786
+msgid "Bypass product detail in External/Affiliate products"
+msgstr ""
+
+#: lib/settings.php:2787
+msgid ""
+"Link external products directly to product url instead of product detail "
+"page"
+msgstr ""
+
+#: lib/settings.php:2795
+msgid "Remove responsive product cards hover state"
+msgstr ""
+
+#: lib/settings.php:2796
+msgid "On"
+msgstr ""
+
+#: lib/settings.php:2797
+msgid "Off"
+msgstr ""
+
+#: lib/settings.php:2803
+msgid "Trim Product Title In Mini Cart"
+msgstr ""
+
+#: lib/settings.php:2804
+msgid "If you want to trim product title in mini cart, specify length of title."
+msgstr ""
+
+#: lib/settings.php:2819
+msgid "Shop Filters Toolbar"
+msgstr ""
+
+#: lib/settings.php:2827
+msgid "Shop Filter display"
+msgstr ""
+
+#: lib/settings.php:2828
+msgid "Enable or disable Shop Filter Toolbar on top of the products in shop page."
+msgstr ""
+
+#: lib/settings.php:2836
+msgid "Shop Filter Toggling Style"
+msgstr ""
+
+#: lib/settings.php:2837
+msgid "Choose Shop filter display on shop page."
+msgstr ""
+
+#: lib/settings.php:2839
+msgid "Top expandable filters"
+msgstr ""
+
+#: lib/settings.php:2840
+msgid "Off-canvas filters"
+msgstr ""
+
+#: lib/settings.php:2848
+msgid "Categories Dropdown Display"
+msgstr ""
+
+#: lib/settings.php:2849
+msgid "Caategories dropdown showing in the shop filter toolbar."
+msgstr ""
+
+#: lib/settings.php:2858
+msgid "Empty Category Showing"
+msgstr ""
+
+#: lib/settings.php:2860
+msgid "Show empty categories"
+msgstr ""
+
+#: lib/settings.php:2861
+msgid "Hide empty categories"
+msgstr ""
+
+#: lib/settings.php:2867
+msgid "Sorting Filter"
+msgstr ""
+
+#: lib/settings.php:2869
+msgid "Show Sorting filter"
+msgstr ""
+
+#: lib/settings.php:2870
+msgid "Hide Sorting filter"
+msgstr ""
+
+#: lib/settings.php:2875
+msgid "Product Per Page Filter"
+msgstr ""
+
+#: lib/settings.php:2876
+msgid ""
+"Product Per Page Filter is shown when the main Shop pagination method is on "
+"pagination."
+msgstr ""
+
+#: lib/settings.php:2884
+msgid "Active Filters"
+msgstr ""
+
+#: lib/settings.php:2886
+msgid "Show Active filters"
+msgstr ""
+
+#: lib/settings.php:2887
+msgid "Hide Active filters"
+msgstr ""
+
+#: lib/settings.php:2892
+msgid "Search Filter"
+msgstr ""
+
+#: lib/settings.php:2894
+msgid "Show Search"
+msgstr ""
+
+#: lib/settings.php:2895
+msgid "Hide Search"
+msgstr ""
+
+#: lib/settings.php:2904
+msgid "Free Shipping Threshold"
+msgstr ""
+
+#: lib/settings.php:2912
+msgid "Show free shipping threshold notice"
+msgstr ""
+
+#: lib/settings.php:2920
+msgid "Required amount to show free shipping"
+msgstr ""
+
+#: lib/settings.php:2921
+msgid ""
+"You should enable free shipping and minimum amount for free shipping in "
+"Woocommerce -> settings -> shipping -> shipping zones -> manage shipping "
+"method"
+msgstr ""
+
+#: lib/settings.php:2927
+msgid "Price Color"
+msgstr ""
+
+#: lib/settings.php:2928
+msgid "This color only applies in product detail page."
+msgstr ""
+
+#: lib/settings.php:2936
+msgid "Notice Background Color"
+msgstr ""
+
+#: lib/settings.php:2944
+msgid "Notice Progress Background Color"
+msgstr ""
+
+#: lib/settings.php:2952
+msgid "Notice Text Color"
+msgstr ""
+
+#: lib/settings.php:2963
+msgid "Product Details"
+msgstr ""
+
+#: lib/settings.php:2970
+msgid "Layout"
+msgstr ""
+
+#: lib/settings.php:2971
+msgid "Select product details page layout style"
+msgstr ""
+
+#: lib/settings.php:2989
+msgid "Sidebar In product column gallery style"
+msgstr ""
+
+#: lib/settings.php:2991
+msgid "Hide sidebar"
+msgstr ""
+
+#: lib/settings.php:2992
+msgid "Show sidebar"
+msgstr ""
+
+#: lib/settings.php:2998
+msgid "Product detail sidebar position"
+msgstr ""
+
+#: lib/settings.php:2999
+msgid "Choose product detail sidebar position"
+msgstr ""
+
+#: lib/settings.php:3017
+msgid "Sidebar In Responsive"
+msgstr ""
+
+#: lib/settings.php:3018
+msgid "Show sidebar in responsive"
+msgstr ""
+
+#: lib/settings.php:3019
+msgid "Hide sidebar in responsive"
+msgstr ""
+
+#: lib/settings.php:3025
+msgid "gallery column "
+msgstr ""
+
+#: lib/settings.php:3026
+msgid "show images gallery."
+msgstr ""
+
+#: lib/settings.php:3037
+msgid "Product detail text-color"
+msgstr ""
+
+#: lib/settings.php:3038
+msgid ""
+"Choose a color for the text of \"Product short description\" on the product "
+"detail page."
+msgstr ""
+
+#: lib/settings.php:3047
+msgid "Product detail background-color"
+msgstr ""
+
+#: lib/settings.php:3048
+msgid "Choose a color for background of product detail page and thumbnails"
+msgstr ""
+
+#: lib/settings.php:3067
+msgid "Product gallery direction in Product details"
+msgstr ""
+
+#: lib/settings.php:3068
+msgid "right"
+msgstr ""
+
+#: lib/settings.php:3069 lib/settings.php:3117
+msgid "left"
+msgstr ""
+
+#: lib/settings.php:3080
+msgid "Variable Options"
+msgstr ""
+
+#: lib/settings.php:3086
+msgid "Variations Select Style"
+msgstr ""
+
+#: lib/settings.php:3087
+msgid "Select Variable Selection Style in Product detail"
+msgstr ""
+
+#: lib/settings.php:3089
+msgid "Swatch Style"
+msgstr ""
+
+#: lib/settings.php:3090
+msgid "Dropdown Style"
+msgstr ""
+
+#: lib/settings.php:3095
+msgid "Variable Title in Product details"
+msgstr ""
+
+#: lib/settings.php:3096
+msgid "Enable/Disable this option to show Variable Title in Product details"
+msgstr ""
+
+#: lib/settings.php:3104
+msgid "WooCommerce ajax variation threshold"
+msgstr ""
+
+#: lib/settings.php:3116
+msgid "Product Summary Alignment in Product details"
+msgstr ""
+
+#: lib/settings.php:3118
+msgid "center"
+msgstr ""
+
+#: lib/settings.php:3124
+msgid "Product navigation in Product details"
+msgstr ""
+
+#: lib/settings.php:3125
+msgid "this option is to show next/previous products in Product details."
+msgstr ""
+
+#: lib/settings.php:3133
+msgid "Product breadcrumb in Product details"
+msgstr ""
+
+#: lib/settings.php:3134
+msgid "Enable/Disable this option to show breadcrunb in Product details"
+msgstr ""
+
+#: lib/settings.php:3142
+msgid "product gallery"
+msgstr ""
+
+#: lib/settings.php:3148
+msgid "Zooming of Products Gallery"
+msgstr ""
+
+#: lib/settings.php:3149
+msgid "Enable or disable zooming of products gallery"
+msgstr ""
+
+#: lib/settings.php:3157
+msgid "Responsive Zooming of Products Gallery"
+msgstr ""
+
+#: lib/settings.php:3158
+msgid "Enable or disable zooming of products gallery in responsive state"
+msgstr ""
+
+#: lib/settings.php:3169
+msgid "Product Gallery Popup"
+msgstr ""
+
+#: lib/settings.php:3170
+msgid "Enable or disable product gallery popup on product detail pages"
+msgstr ""
+
+#: lib/settings.php:3178
+msgid "Product Gallery Button Scheme"
+msgstr ""
+
+#: lib/settings.php:3180
+msgid "Dark Button"
+msgstr ""
+
+#: lib/settings.php:3181
+msgid "Light Button"
+msgstr ""
+
+#: lib/settings.php:3186
+msgid "Product Gallery Carousel AutoPlay"
+msgstr ""
+
+#: lib/settings.php:3199
+msgid "product description"
+msgstr ""
+
+#: lib/settings.php:3200
+msgid "Select style of product description"
+msgstr ""
+
+#: lib/settings.php:3223
+msgid "Upload Payment Methods Image for Products."
+msgstr ""
+
+#: lib/settings.php:3225
+msgid "Payment Methods Image"
+msgstr ""
+
+#: lib/settings.php:3231
+msgid "Buy Now Button"
+msgstr ""
+
+#: lib/settings.php:3232
+msgid "Enable button to redirect to the cart page after successful addition"
+msgstr ""
+
+#: lib/settings.php:3240
+msgid "Product Meta"
+msgstr ""
+
+#: lib/settings.php:3241
+msgid "Select position of product meta"
+msgstr ""
+
+#: lib/settings.php:3243
+msgid "In Summary Section"
+msgstr ""
+
+#: lib/settings.php:3244
+msgid "After Summary Section"
+msgstr ""
+
+#: lib/settings.php:3249
+msgid "Product 360 View"
+msgstr ""
+
+#: lib/settings.php:3250
+msgid "Enable or disable product 360 view on product detail pages"
+msgstr ""
+
+#: lib/settings.php:3258 lib/settings.php:4142
+msgid "Instagram"
+msgstr ""
+
+#: lib/settings.php:3264
+msgid "Show instagram in product detail"
+msgstr ""
+
+#: lib/settings.php:3265
+msgid "Enable or disable instagram section in product detail"
+msgstr ""
+
+#: lib/settings.php:3273
+msgid "Instagram Connection Method"
+msgstr ""
+
+#: lib/settings.php:3274
+msgid ""
+"Select connection method to instagram. The best and trusted way recommended "
+"by instagram is the Api method. For Api method you have to set the app id "
+"and app secret in setting's social tab."
+msgstr ""
+
+#: lib/settings.php:3276
+msgid "Api"
+msgstr ""
+
+#: lib/settings.php:3277
+msgid "Scrape/Ajax"
+msgstr ""
+
+#: lib/settings.php:3293
+msgid "Ajax Add To Cart"
+msgstr ""
+
+#: lib/settings.php:3294
+msgid "Enable or disable ajax add to cart in single products"
+msgstr ""
+
+#: lib/settings.php:3302
+msgid "Sticky add to Cart"
+msgstr ""
+
+#: lib/settings.php:3303
+msgid ""
+"Enable or disable Sticky add to cart button. It will be displayed after "
+"scrolling to bottom of page to have better accessibility"
+msgstr ""
+
+#: lib/settings.php:3311
+msgid "Sticky add to Cart in Mobile"
+msgstr ""
+
+#: lib/settings.php:3312
+msgid ""
+"Enable or disable Sticky add to cart button in mobile. It will be displayed "
+"after scrolling to bottom of page to have better accessibility"
+msgstr ""
+
+#: lib/settings.php:3320
+msgid "Show/Hide add to cart notices in ajax requests"
+msgstr ""
+
+#: lib/settings.php:3321
+msgid ""
+"If you Hide this and ajax-add-to-cart was enabled in woocomerce, "
+"add-to-cart notices would be hide"
+msgstr ""
+
+#: lib/settings.php:3339
+msgid "Product Manual and Guides visibility"
+msgstr ""
+
+#: lib/settings.php:3347
+msgid "Product Manual and Guides"
+msgstr ""
+
+#: lib/settings.php:3348
+msgid ""
+"Enable or disable product manual and guides to show size guide, delivery "
+"and ask question fields."
+msgstr ""
+
+#: lib/settings.php:3356
+msgid "Size Guide"
+msgstr ""
+
+#: lib/settings.php:3363
+msgid "Choose a title for the sizeguide."
+msgstr ""
+
+#: lib/settings.php:3380
+msgid "Delivery & Return"
+msgstr ""
+
+#: lib/settings.php:3387
+msgid "Choose a title for the Delivery & Return."
+msgstr ""
+
+#: lib/settings.php:3405
+msgid "Ask a Question"
+msgstr ""
+
+#: lib/settings.php:3412
+msgid "Choose a title for the faq."
+msgstr ""
+
+#: lib/settings.php:3432
+msgid "upsells/related products"
+msgstr ""
+
+#: lib/settings.php:3440
+msgid "Upsells Position"
+msgstr ""
+
+#: lib/settings.php:3441
+msgid "After Product Description Tabs"
+msgstr ""
+
+#: lib/settings.php:3442
+msgid "Before Product Description Tabs"
+msgstr ""
+
+#: lib/settings.php:3448
+msgid "Upsells Display Mode"
+msgstr ""
+
+#: lib/settings.php:3449 lib/settings.php:3474
+msgid "Gird Mode"
+msgstr ""
+
+#: lib/settings.php:3450 lib/settings.php:3475
+msgid "Carousel Mode"
+msgstr ""
+
+#: lib/settings.php:3456
+msgid "Upsells Width"
+msgstr ""
+
+#: lib/settings.php:3464
+msgid "Related Products"
+msgstr ""
+
+#: lib/settings.php:3465
+msgid "Enable or disable related products on product page"
+msgstr ""
+
+#: lib/settings.php:3473
+msgid "Related Products Display Mode"
+msgstr ""
+
+#: lib/settings.php:3481
+msgid "Related Products Width"
+msgstr ""
+
+#: lib/settings.php:3493
+msgid "Cookie Law"
+msgstr ""
+
+#: lib/settings.php:3500
+msgid "Show cookies info"
+msgstr ""
+
+#: lib/settings.php:3501
+msgid ""
+"Under EU privacy regulations, websites must make it clear to visitors what "
+"information about them is being stored. This specifically includes cookies. "
+"Turn on this option and user will see info box at the bottom of the page "
+"that your web-site is using cookies."
+msgstr ""
+
+#: lib/settings.php:3509
+msgid "cookies Popup text"
+msgstr ""
+
+#: lib/settings.php:3510
+msgid ""
+"We use cookies to improve your experience on our website. By browsing this "
+"website, you agree to our use of cookies."
+msgstr ""
+
+#: lib/settings.php:3517
+msgid "Cookies detail page"
+msgstr ""
+
+#: lib/settings.php:3518
+msgid "Choose page that will contain detailed information about your Privacy Policy"
+msgstr ""
+
+#: lib/settings.php:3528
+msgid "Footer And Widget Area"
+msgstr ""
+
+#: lib/settings.php:3535
+msgid "Footer Builder"
+msgstr ""
+
+#: lib/settings.php:3541
+msgid "Build Footer With Elementor"
+msgstr ""
+
+#: lib/settings.php:3561
+msgid "Footer Title And Subtitle"
+msgstr ""
+
+#: lib/settings.php:3568
+msgid "Footer Title"
+msgstr ""
+
+#: lib/settings.php:3569
+msgid "Enter footer title text here. "
+msgstr ""
+
+#: lib/settings.php:3574
+msgid "Footer Subitle"
+msgstr ""
+
+#: lib/settings.php:3575
+msgid "Enter footer subtitle text here. "
+msgstr ""
+
+#: lib/settings.php:3586 lib/settings.php:3587 lib/utilities.php:1064
+#: woocommerce/content-single-product.php:198
+msgid "Widget Area"
+msgstr ""
+
+#: lib/settings.php:3594
+msgid "Footer Widget Area"
+msgstr ""
+
+#: lib/settings.php:3685
+msgid "Products & Categories In Widget Area"
+msgstr ""
+
+#: lib/settings.php:3692
+msgid "Footer widget area in products page"
+msgstr ""
+
+#: lib/settings.php:3693 lib/settings.php:3703
+msgid "Show widgetized footer in product page"
+msgstr ""
+
+#: lib/settings.php:3702
+msgid "Footer widget area in categories page"
+msgstr ""
+
+#: lib/settings.php:3718
+msgid "Widget Area Background"
+msgstr ""
+
+#: lib/settings.php:3725
+msgid "Upload an image to be shown as Widget area background"
+msgstr ""
+
+#: lib/settings.php:3732
+msgid "Gradient Overlay"
+msgstr ""
+
+#: lib/settings.php:3733
+msgid "Enable or disable Gradient Overlay on the footer background image"
+msgstr ""
+
+#: lib/settings.php:3741
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: lib/settings.php:3751
+msgid "Widget Area Color Scheme"
+msgstr ""
+
+#: lib/settings.php:3759
+msgid "Widget Area Width"
+msgstr ""
+
+#: lib/settings.php:3773
+msgid "Footer Layout"
+msgstr ""
+
+#: lib/settings.php:3779
+msgid "Footyer Layout Style"
+msgstr ""
+
+#: lib/settings.php:3780
+msgid "Choose the Footer style"
+msgstr ""
+
+#: lib/settings.php:3809
+msgid "Upload Footer Logo"
+msgstr ""
+
+#: lib/settings.php:3811
+msgid "Footer Logo"
+msgstr ""
+
+#: lib/settings.php:3817
+msgid "Footer Color Scheme"
+msgstr ""
+
+#: lib/settings.php:3818
+msgid "Choose footer color scheme"
+msgstr ""
+
+#: lib/settings.php:3827
+msgid "Footer Width"
+msgstr ""
+
+#: lib/settings.php:3828
+msgid "Choose the footer to be boxed or full-width."
+msgstr ""
+
+#: lib/settings.php:3836
+msgid "Social Network Icons"
+msgstr ""
+
+#: lib/settings.php:3838
+msgid "Enable/disable Social Network icons on footer."
+msgstr ""
+
+#: lib/settings.php:3852
+msgid "Socials"
+msgstr ""
+
+#: lib/settings.php:3859
+msgid "Social Login"
+msgstr ""
+
+#: lib/settings.php:3865
+msgid "Google App Id"
+msgstr ""
+
+#: lib/settings.php:3871
+msgid "Google App Secret"
+msgstr ""
+
+#: lib/settings.php:3877
+msgid "Facebook App Id"
+msgstr ""
+
+#: lib/settings.php:3883
+msgid "Facebook App Secret"
+msgstr ""
+
+#: lib/settings.php:3894
+msgid "Instagram Api"
+msgstr ""
+
+#: lib/settings.php:3900
+msgid "Instagram App Id"
+msgstr ""
+
+#: lib/settings.php:3905
+msgid "Instagram App Secret"
+msgstr ""
+
+#: lib/settings.php:3919
+msgid "Rss display"
+msgstr ""
+
+#: lib/settings.php:3925
+msgid "Rss"
+msgstr ""
+
+#: lib/settings.php:3931
+msgid "Rss Feed"
+msgstr ""
+
+#: lib/settings.php:3942
+msgid "Social Share Buttons Display"
+msgstr ""
+
+#: lib/settings.php:3948
+msgid "Social Share Buttons"
+msgstr ""
+
+#: lib/settings.php:3950
+msgid ""
+"Enable/disable Social share buttons on products/post. This setting could be "
+"overrided in each products/post item"
+msgstr ""
+
+#: lib/settings.php:3955 lib/settings.php:4022
+msgid "Facebook"
+msgstr ""
+
+#: lib/settings.php:3969 lib/settings.php:4027
+msgid "Twitter"
+msgstr ""
+
+#: lib/settings.php:3976
+msgid "Telegram"
+msgstr ""
+
+#: lib/settings.php:3983
+msgid "Whatsapp"
+msgstr ""
+
+#: lib/settings.php:3990 lib/settings.php:4052
+msgid "LinkedIn"
+msgstr ""
+
+#: lib/settings.php:3997 lib/settings.php:4152
+msgid "VK"
+msgstr ""
+
+#: lib/settings.php:4004 lib/settings.php:4112
+msgid "Pinterest"
+msgstr ""
+
+#: lib/settings.php:4016
+msgid "Social Network URLs"
+msgstr ""
+
+#: lib/settings.php:4032
+msgid "Vimeo"
+msgstr ""
+
+#: lib/settings.php:4037
+msgid "Youtube"
+msgstr ""
+
+#: lib/settings.php:4042
+msgid "Dribbble"
+msgstr ""
+
+#: lib/settings.php:4047
+msgid "Tumbler"
+msgstr ""
+
+#: lib/settings.php:4057
+msgid "Flicker"
+msgstr ""
+
+#: lib/settings.php:4062
+msgid "GitHub"
+msgstr ""
+
+#: lib/settings.php:4067
+msgid "Last.fm"
+msgstr ""
+
+#: lib/settings.php:4072
+msgid "PayPal"
+msgstr ""
+
+#: lib/settings.php:4077
+msgid "Skype"
+msgstr ""
+
+#: lib/settings.php:4082
+msgid "Wordpress"
+msgstr ""
+
+#: lib/settings.php:4087
+msgid "Yahoo"
+msgstr ""
+
+#: lib/settings.php:4092
+msgid "DeviantArt"
+msgstr ""
+
+#: lib/settings.php:4097
+msgid "Steam"
+msgstr ""
+
+#: lib/settings.php:4102
+msgid "Reddit"
+msgstr ""
+
+#: lib/settings.php:4107
+msgid "stumbleupon"
+msgstr ""
+
+#: lib/settings.php:4117
+msgid "Xing"
+msgstr ""
+
+#: lib/settings.php:4122
+msgid "Blogger"
+msgstr ""
+
+#: lib/settings.php:4127
+msgid "SoundCloud"
+msgstr ""
+
+#: lib/settings.php:4132
+msgid "Delicious"
+msgstr ""
+
+#: lib/settings.php:4137
+msgid "Foursquare"
+msgstr ""
+
+#: lib/settings.php:4147
+msgid "Behance"
+msgstr ""
+
+#: lib/settings.php:4162
+msgid "First Custom Social Network"
+msgstr ""
+
+#: lib/settings.php:4169
+msgid "First custom social network Title : "
+msgstr ""
+
+#: lib/settings.php:4175
+msgid "First custom social network URL : "
+msgstr ""
+
+#: lib/settings.php:4180 lib/settings.php:4221
+msgid "Upload logo image for custom Social Network."
+msgstr ""
+
+#: lib/settings.php:4182 lib/settings.php:4223
+msgid "Logo Image"
+msgstr ""
+
+#: lib/settings.php:4187 lib/settings.php:4228
+msgid "Accent color"
+msgstr ""
+
+#: lib/settings.php:4204
+msgid "Second Custom Social Network"
+msgstr ""
+
+#: lib/settings.php:4211
+msgid "Second custom social network Title : "
+msgstr ""
+
+#: lib/settings.php:4216
+msgid "Second custom social network URL : "
+msgstr ""
+
+#: lib/settings.php:4249
+msgid "Performance"
+msgstr ""
+
+#: lib/settings.php:4256
+msgid "Lazy Load"
+msgstr ""
+
+#: lib/settings.php:4257
+msgid "Enable or disable lazy load"
+msgstr ""
+
+#: lib/settings.php:4265
+msgid "Load Js when required"
+msgstr ""
+
+#: lib/settings.php:4266
+msgid ""
+"To have better speed score, enable this option to load js files when its "
+"required. Enable this option if you are using elementor as page builder."
+msgstr ""
+
+#: lib/settings.php:4274
+msgid "Load styles when required"
+msgstr ""
+
+#: lib/settings.php:4275
+msgid ""
+"To have better speed score, enable this option to load css files when its "
+"required. Enable this option if you are using elementor as page builder."
+msgstr ""
+
+#: lib/settings.php:4283
+msgid "Disable Emoji Scripts"
+msgstr ""
+
+#: lib/settings.php:4284
+msgid ""
+"If you don't use emoji on your websites enable this option to have better "
+"speed score."
+msgstr ""
+
+#: lib/settings.php:4292
+msgid "Disable Gutenberg Styles"
+msgstr ""
+
+#: lib/settings.php:4293
+msgid ""
+"If you don't use gutenberg on your websites enable this option to have "
+"better speed score."
+msgstr ""
+
+#: lib/settings.php:4301
+msgid "Disable Woocommerce Block Styles"
+msgstr ""
+
+#: lib/settings.php:4302
+msgid ""
+"If you don't use Woocommerce blocks on your websites enable this option to "
+"have better speed score."
+msgstr ""
+
+#: lib/settings.php:4310
+msgid "Disable Yith Dependent Scripts"
+msgstr ""
+
+#: lib/settings.php:4311 lib/settings.php:4320 lib/settings.php:4329
+msgid "To have better speed score, It's recommanded to enable this option."
+msgstr ""
+
+#: lib/settings.php:4319
+msgid "Disable Elementor Font Awesome"
+msgstr ""
+
+#: lib/settings.php:4328
+msgid "Load contact form 7 plugin scripts when required"
+msgstr ""
+
+#: lib/settings.php:4341
+msgid "Maintenance"
+msgstr ""
+
+#: lib/settings.php:4348
+msgid "Maintenance Settings"
+msgstr ""
+
+#: lib/settings.php:4354
+msgid "Maintenance mode"
+msgstr ""
+
+#: lib/settings.php:4355
+msgid ""
+"If it is enabled, no one except admins can see frontend of the website. "
+"Users who have a role, such as authors, translators, etc, only can see the "
+"dashboard. You should create a maintenance page and select it in the next "
+"option."
+msgstr ""
+
+#: lib/settings.php:4364
+msgid "Maintenance page"
+msgstr ""
+
+#: lib/settings.php:4379
+msgid "Additional Scripts"
+msgstr ""
+
+#: lib/settings.php:4387
+msgid "Additional JavaScript"
+msgstr ""
+
+#: lib/settings.php:4388
+msgid ""
+"Enter custom JavaScript code such as Google Analytics code here. Please "
+"note that you should not include &lt;script&gt; tags in your scripts."
+msgstr ""
+
+#: lib/settings.php:4395
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/settings.php:4396
+msgid ""
+"Enter custom CSS code such as style overrides here. Please note that you "
+"should not include &lt;style&gt; tags in your css code."
+msgstr ""
+
+#: lib/settings.php:4404
+msgid "Import / Export"
+msgstr ""
+
+#: lib/sidebars.php:10
+msgid "Blog Sidebar"
+msgstr ""
+
+#: lib/sidebars.php:42
+msgid "Page Sidebar"
+msgstr ""
+
+#: lib/sidebars.php:68
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: lib/sidebars.php:79
+msgid "WooCommerce Product Sidebar"
+msgstr ""
+
+#: lib/sidebars.php:102
+msgid "WooCommerce Filters Bar"
+msgstr ""
+
+#: lib/utilities.php:921
+msgid "No slider"
+msgstr ""
+
+#: lib/utilities.php:969 lib/woocommerce/woocommerce-hooks.php:3307
+msgid "Prev."
+msgstr ""
+
+#: lib/utilities.php:970 lib/woocommerce/woocommerce-hooks.php:3308
+msgid "Next"
+msgstr ""
+
+#: lib/utilities.php:1326
+msgid "More info"
+msgstr ""
+
+#: lib/utilities.php:1328
+msgid "Accept"
+msgstr ""
+
+#: lib/utilities.php:1405
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: lib/utilities.php:1409
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: lib/utilities.php:1422
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: lib/utilities.php:1438 lib/utilities.php:1446 lib/utilities.php:1450
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: lib/utilities.php:1458
+msgid "Instagram Image"
+msgstr ""
+
+#: lib/utilities.php:1494
+msgid "Share "
+msgstr ""
+
+#: lib/utilities.php:1572
+msgid "Tag your photos with this on Instagram."
+msgstr ""
+
+#: lib/utilities.php:1577
+msgid "Find us on Instagram."
+msgstr ""
+
+#: lib/utilities.php:1684
+msgid "Select the form to show"
+msgstr ""
+
+#: lib/utilities.php:1854
+msgid "Related Posts"
+msgstr ""
+
+#: lib/utilities.php:2049 templates/nav/header-mobile.php:17
+msgid "Search Posts"
+msgstr ""
+
+#: lib/utilities.php:2089
+msgid "Select a template"
+msgstr ""
+
+#: lib/utilities.php:2290
+msgid "Skip To Content"
+msgstr ""
+
+#: lib/utilities.php:2338
+msgid "Share"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:197
+msgid "My Account"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:197
+#: lib/woocommerce/woocommerce-hooks.php:2501
+#: lib/woocommerce/woocommerce-hooks.php:2522
+#: woocommerce/global/form-login.php:52 woocommerce/myaccount/form-login.php:36
+#: woocommerce/myaccount/form-login.php:57
+msgid "Login"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:215
+msgid "View Cart"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:223
+msgid "Checkout"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:238
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:247
+#: lib/woocommerce/woocommerce-hooks.php:252
+msgid "verified owner"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:256
+msgid "%1$s"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:308
+#: woocommerce/content-product-cat.php:49
+msgid "Items"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:831
+#: lib/woocommerce/woocommerce-hooks.php:951
+msgid "Filter"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:977
+msgid "Views : "
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:991
+msgid "Show : "
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1045
+#: templates/bottom-sticky-navigation.php:31
+msgid "Filters"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1218
+msgid "Default sorting"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1219
+msgid "Sort by popularity"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1220
+msgid "Sort by average rating"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1221
+msgid "Sort by newness"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1222
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1223
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1255
+msgid "Default Sorting"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1406
+#: lib/woocommerce/woocommerce-hooks.php:1411 templates/nav/topbar.php:110
+msgid "Compare"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1411
+#: lib/woocommerce/woocommerce-hooks.php:1447
+msgid "Add to compare list"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:1784
+msgid "Show in quickview"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2024
+msgid "Add to wishlist"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2025
+msgid "Go to wishlist"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2026
+msgid "Add to Wishlist"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2073
+msgid "Choose an option"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2342
+#: lib/woocommerce/woocommerce-hooks.php:2399
+msgid "Header background image"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2346
+#: lib/woocommerce/woocommerce-hooks.php:2404
+msgid "Upload/Add image"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2347
+#: lib/woocommerce/woocommerce-hooks.php:2405
+msgid "Remove image"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2372
+#: lib/woocommerce/woocommerce-hooks.php:2410
+msgid "Header text color"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2421
+msgid "Category Icon"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2507
+#: lib/woocommerce/woocommerce-hooks.php:2508
+msgid "Username or email address"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2511
+#: lib/woocommerce/woocommerce-hooks.php:2512
+#: woocommerce/global/form-login.php:43 woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:95
+msgid "Password"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2519
+#: woocommerce/global/form-login.php:55 woocommerce/myaccount/form-login.php:54
+msgid "Remember me"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2526
+#: woocommerce/global/form-login.php:58 woocommerce/myaccount/form-login.php:59
+msgid "Lost your password?"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2539
+msgid "Have not an account yet?"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2539
+msgid "Sign up"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2732
+#: lib/woocommerce/woocommerce-hooks.php:2734
+msgid "SOLD: "
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2749
+msgid "Initial number in stock"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:2752
+msgid "Required for stock progress bar option"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:3023
+msgid "Add To Cart"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:3056
+msgid "SKU: "
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:3207
+msgid "Shop and Category page  header display"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:3208
+msgid ""
+"Choose which categories style to display on the shop and product category "
+"page header."
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:3213
+msgid "Extended categories"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:3214
+msgid "Categories by icon"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:3215
+msgid "Categories by image"
+msgstr ""
+
+#: lib/woocommerce/woocommerce-hooks.php:3357
+msgid "Vendors"
+msgstr ""
+
+#: search.php:13
+msgid "Results for &nbsp; '%s'"
+msgstr ""
+
+#: searchform.php:43
+msgid "search icon"
+msgstr ""
+
+#: searchform.php:56 searchform.php:161
+msgid "See All Results"
+msgstr ""
+
+#: searchform.php:65
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:77
+msgid "search"
+msgstr ""
+
+#: searchform.php:97
+msgid "Press \"Enter\" to search"
+msgstr ""
+
+#: templates/bottom-sticky-navigation.php:4
+msgid "Home"
+msgstr ""
+
+#: templates/bottom-sticky-navigation.php:6
+msgid "Shop"
+msgstr ""
+
+#: templates/bottom-sticky-navigation.php:9
+msgid "Categories"
+msgstr ""
+
+#: templates/bottom-sticky-navigation.php:11
+msgid "Menu"
+msgstr ""
+
+#: templates/bottom-sticky-navigation.php:15
+msgid "Sorting"
+msgstr ""
+
+#: templates/bottom-sticky-navigation.php:50
+msgid "Account"
+msgstr ""
+
+#: templates/bottom-sticky-navigation.php:74
+msgid "Cart"
+msgstr ""
+
+#: templates/head.php:138
+msgid "CATEGORIES"
+msgstr ""
+
+#: templates/loop-blog-meta.php:48 templates/single-post-meta.php:13
+msgid "No Comment"
+msgstr ""
+
+#: templates/loop-blog.php:125 templates/loop-blog.php:129
+msgid "Read More"
+msgstr ""
+
+#: templates/loop-page.php:36
+msgid "Pages:"
+msgstr ""
+
+#: templates/nav/header-mobile.php:22
+msgid "Search Products"
+msgstr ""
+
+#: templates/nav/mobile-nav-menu.php:4
+msgid "Navigation"
+msgstr ""
+
+#: templates/nav/topbar.php:144
+msgid "Newsletter"
+msgstr ""
+
+#: templates/search-no-result.php:2
+msgid "No Results Found!"
+msgstr ""
+
+#: templates/search-no-result.php:3
+msgid ""
+"We didn't find any article matches your entry. Try different keywords using "
+"search box bellow:"
+msgstr ""
+
+#: templates/section-blog.php:26
+msgid "No Post Found!"
+msgstr ""
+
+#: templates/section-location.php:4
+msgid "google map"
+msgstr ""
+
+#: templates/single-post-content.php:59
+msgid "Next Post"
+msgstr ""
+
+#: templates/single-post-content.php:59
+msgid "Newer Posts"
+msgstr ""
+
+#: templates/single-post-content.php:60
+msgid "Previous Post"
+msgstr ""
+
+#: templates/single-post-content.php:60
+msgid "Older Posts"
+msgstr ""
+
+#: templates/single-post-content.php:84
+msgid "comment"
+msgstr ""
+
+#: templates/single-post-content.php:86
+msgid "comments"
+msgstr ""
+
+#: templates/slider.php:22
+msgid "Home section"
+msgstr ""
+
+#: templates/social-share.php:44
+msgid "Share on Facebook!"
+msgstr ""
+
+#: templates/social-share.php:51
+msgid "Share on Whatsapp!"
+msgstr ""
+
+#: templates/social-share.php:59
+msgid "Share on Telegram!"
+msgstr ""
+
+#: templates/social-share.php:67
+msgid "Share on Twitter!"
+msgstr ""
+
+#: templates/social-share.php:76
+msgid "Share on LinkedIn!"
+msgstr ""
+
+#: templates/social-share.php:84
+msgid "Share on vk!"
+msgstr ""
+
+#: templates/social-share.php:91
+msgid "Share by Mail!"
+msgstr ""
+
+#: templates/woocommerce/product-buttons-on-hover.php:14
+#: templates/woocommerce/product-info-on-hover.php:13
+#: templates/woocommerce/product-list-view.php:81
+#: templates/woocommerce/product-list-view.php:130
+#: templates/woocommerce/product-modern-buttons-on-hover.php:14
+#: templates/woocommerce/product-modern-buttons-on-hover.php:39
+msgid "Sale!"
+msgstr ""
+
+#: templates/woocommerce/product-buttons-on-hover.php:39
+#: templates/woocommerce/product-info-on-hover.php:19
+#: templates/woocommerce/product-list-view.php:84
+#: templates/woocommerce/product-list-view.php:133
+msgid "Out of stock"
+msgstr ""
+
+#: templates/woocommerce/product-buttons.php:20
+#: templates/woocommerce/product-list-view.php:66
+#: templates/woocommerce/product-modern-buttons-on-hover.php:144
+msgid "Add to Cart"
+msgstr ""
+
+#: templates/woocommerce/product-list-view.php:43
+msgid "out of stock"
+msgstr ""
+
+#: templates/woocommerce/product-modern-buttons-on-hover.php:179
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:38
+msgid "Return to Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+#. Translators: $s shipping destination.
+msgid "Shipping to %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:55
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:57
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:70
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:72
+msgid ""
+"There are no shipping options available. Please ensure that your address "
+"has been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:75
+#. Translators: $s shipping destination.
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:76
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:102
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:53 woocommerce/cart/mini-cart.php:76
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128 woocommerce/cart/mini-cart.php:158
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:153
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:155
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:30
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:32
+msgid "Shopping Bag"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:36
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/mini-cart.php:94
+msgid "Undo this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:145
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:52
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:39
+#: woocommerce/checkout/form-shipping.php:75
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:43
+msgid "Shipping Details"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:49
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/compare.php:62
+msgid "No products added in the compare table."
+msgstr ""
+
+#: woocommerce/compare.php:73
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:96 woocommerce/global/breadcrumb.php:197
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:154
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:201
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:206
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:211
+msgid "Page"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/loop/loop-start.php:119
+msgid "Load More"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:36
+#: woocommerce/loop/no-products-found.php:46
+msgid "No products were found matching your selection. "
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:38
+#: woocommerce/loop/no-products-found.php:48
+msgid "Back to shop"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:83
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:74
+#: woocommerce/myaccount/form-login.php:109
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:89
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:100
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/product-searchform.php:47
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:55
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:92
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:101
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:38
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:42
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:44
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:39
+msgid "%s"
+msgid_plural "%s "
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:39
+#: woocommerce/single-product-reviews.php:48
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product/related.php:35
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:34
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:45
+#. translators: 1: reviews count 2: product name
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:143
+#: woocommerce/single-product-reviews.php:144
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:145
+msgid "Your Review..."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:156
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "teta lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://teta.kitestudio.co/teta-lite-presentation/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"teta is the best WordPress theme​ with multiple layouts and styles allows "
+"you to create different structures and satisfies any specific requirements "
+"for different kind of business. Featuring latest web technologies, UX and "
+"the most beautiful design trends. Full of different pre-built websites like "
+"fashion, beauty, electronics, jewelry, furniture, market place and ... A "
+"well-designed, responsive, and eye-catching theme for any kind of retail or "
+"marketplace e-commerce website and any kind of products. Support "
+"Multivendor plugins and have regular and sequential updates with "
+"improvement and compatibility check with e-commerce plugins like "
+"WooCommerce and ... , Your website can be translated into multiple "
+"languages as this theme is translation ready thanks to its WPML and RTL "
+"compatibility. Its SEO ready design fetches more traffic for your site. It "
+"also comes with comprehensive documentation and awesome support from "
+"developers"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "KiteStudio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://kitestudio.co"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "OnePage Container"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Maintenance Page */ ?>"
+msgstr ""
+
+#: lib/ajax-hooks.php:214
+msgctxt "Price range: from-to"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:1225
+#: lib/includes/class-tgm-plugin-activation.php:3061
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2455
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2501
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/includes/class-tgm-plugin-activation.php:2595
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: searchform.php:94 woocommerce/product-searchform.php:48
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: searchform.php:94 searchform.php:104 searchform.php:178
+#: woocommerce/product-searchform.php:48
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:106 woocommerce/product-searchform.php:49
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:179
+msgctxt "submit button"
+msgid "Search keywords"
+msgstr ""
